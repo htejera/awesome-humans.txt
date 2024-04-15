@@ -70,7 +70,6 @@ Thank you for visiting and we look forward to your contributions!
 - https://kaeltewest.at/humans.txt
 - https://kaiclavier.com/humans.txt
 - https://kasz.ch/humans.txt
-- https://linktr.ee/humans.txt
 - https://medium.com/humans.txt
 - https://mycloud.rackspace.com/humans.txt
 - https://netflix.com/humans.txt
@@ -100,7 +99,6 @@ Thank you for visiting and we look forward to your contributions!
 - https://tecnolocuras.com/humans.txt
 - https://theguardian.com/humans.txt
 - https://thelovelygeek.com/humans.txt
-- https://thistledental.com/humans.txt
 - https://tradingpost-live.ncplatform.net/humans.txt
 - https://triathlon.co.tt/humans.txt
 - https://tumblr.com/humans.txt
