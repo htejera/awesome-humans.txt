@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/htejera/awesome-humans.txt/blob/main/images/logo-humans.jpg?raw=true" width= "30%" height="30%" alt="Humans.txt">
+</div>
+
 # Awesome Humans.txt
 
 This project aims to curate a list of URLs from websites that include a **`humans.txt`** file. These files are significant as they acknowledge the human effort behind websites, giving credit to developers, designers, and all those involved in creating the web.
