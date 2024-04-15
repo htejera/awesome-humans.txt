@@ -94,6 +94,7 @@ Thank you for visiting and we look forward to your contributions!
 - https://ss64.com/humans.txt
 - https://ssuitesoft.com/humans.txt
 - https://starigrad.ba/humans.txt
+- https://tecnolocuras.com/humans.txt
 - https://stripe.com/humans.txt
 - https://supabase.com/humans.txt
 - https://symulatorpociagu.pl/humans.txt
