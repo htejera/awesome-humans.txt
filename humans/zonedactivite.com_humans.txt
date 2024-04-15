@@ -1,0 +1,15 @@
+/* humanstxt.org */
+
+
+/* TEAM */
+	Developer: caouecs
+	Site: www.caouecs.fr
+	Twitter: @caouecs
+	Location: Toulouse, France
+
+/* SITE */
+	Last update: 2013/08/11
+	Standards: HTML5, CSS3
+	Components: jQuery, Twitter Bootstrap, Chart.js, JVectorMap, typeahead.js, Anvelia Framework PHP
+	Software: Sublime Text 2, Git, MAMP
+	Language: French, English, Chinese

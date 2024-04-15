@@ -1,0 +1,72 @@
+                                         888    888      d8b           
+                                         888    888      Y8P           
+                                         888    888                    
+ .d88b.  88888b.d88b.  88888b.   8888b.  888888 88888b.  888  .d88b.   
+d8P  Y8b 888 "888 "88b 888 "88b     "88b 888    888 "88b 888 d8P  Y8b  
+88888888 888  888  888 888  888 .d888888 888    888  888 888 88888888  
+Y8b.     888  888  888 888 d88P 888  888 Y88b.  888  888 888 Y8b.      
+ "Y8888  888  888  888 88888P"  "Y888888  "Y888 888  888 888  "Y8888   
+                       888                                             
+                       888                                             
+                       888                                             
+ .d8888b.                                         d8b                  
+d88P  "88b                                        Y8P                  
+Y88b. d88P                                                             
+ "Y8888P"     88888b.   .d88b.  888  888  .d88b.  888  .d88b.  888d888 
+.d88P88K.d88P 888 "88b d8P  Y8b 888  888 d88P"88b 888 d8P  Y8b 888P"   
+888"  Y888P"  888  888 88888888 888  888 888  888 888 88888888 888     
+Y88b .d8888b  888  888 Y8b.     Y88b 888 Y88b 888 888 Y8b.     888     
+ "Y8888P" Y88b888  888  "Y8888   "Y88888  "Y88888 888  "Y8888  888     
+                                              888                      
+                                         Y8b d88P                      
+                                          "Y88P"                       
+
+
+
+The humans.txt file explains the team, technology, 
+and graphic assets behind this site.
+
+_______________________________________________________________________________
+
+URBAN PROPAGANDA TEAM
+This website was hand-crafted by URBAN PROPAGANDA, an agency for design and 
+communication based in Stuttgart, Germany.
+
+
+Michael Thilow
+Art Direction & web development
+
+Alexandra Steffan, Sunny Berger & Anna-Lena Klaschka
+Webdesign, Art Direction & Prototyping
+
+Sarah Zimmermann & Nina Adelhardt
+Content & copywriting
+
+Eric & Peter 
+Wordpress Theme & CSS magic
+
+_______________________________________________________________________________
+
+SPECIAL THANKS
+
+Tami Tabery, Leo Doerfler & Jannik Dublasky for the lovely pictures <3
+
+_______________________________________________________________________________
+
+TECHNOLOGY & TOOLS
+
+Wordpress
+https://wordpress.org/
+
+InVision App
+https://www.invisionapp.com/
+
+Sketch
+https://www.sketchapp.com/
+
+_______________________________________________________________________________
+
+FONTS
+
+Proxima Nova by Mark Simonson Studio
+https://www.marksimonson.com/fonts/view/proxima-nova

@@ -1,0 +1,34 @@
+Humans.txt
+
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* AUTHOR */
+	Design and Development: Cristina Robinson
+	Site: www.thelovelygeek.com
+	Twitter: @LovelyGeek
+	Instagram: @thelovelygeek
+	Location: Northern California, USA
+
+/* TOOLS */
+	Apple iMac
+	Adobe Creative Suite
+	Sketch
+	Mishka, ClassicoURW, Prada, Smooth Stone, Font Awesome
+	Showit + WordPress
+	Coda
+	CodeKit
+	Transmit	
+	
+/* SITE */
+	Launched: September 5, 2016
+	Modified: March 2021
+	Standards: HTML5, Sass, CSS 1|2|3, PHP
+	Components: Showit, WordPress
+	Browser Support: Firefox, Chrome, Safari, etc. plus responsive layout tested on iPhone/iPad/Desktop
+
+
+ ____ ____ ____ ____ ____ ____ _________ ____ ____ ____ ____ 
+||L |||o |||v |||e |||l |||y |||       |||G |||e |||e |||k ||
+||__|||__|||__|||__|||__|||__|||_______|||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|

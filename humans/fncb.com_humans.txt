@@ -1,0 +1,56 @@
+# What is humans.txt? It's a TXT file that contains information about the different people who have contributed to building this website.
+# This helps for questions about the functionallity and future development.
+# For more information on this file visit humanstxt.org
+
+# TEAM
+Jesse Fowler, Fiserv - Design, HTML, CSS, Javascript, Fiserv Content Manager Implementation, Content Integration via Fiserv Content Manager
+Jessalynn Jarvis, Fiserv - Project Management, Site Mapping, Content Integration via Fiserv Content Manager
+Kyle Wade, Fiserv - Content Integration via Fiserv Content Manager
+
+# THANKS
+All the team at FNCB Bank
+
+# TECHNOLOGY COLOPHON
+Adapt For Width 1.0.0 by Jesse Fowler, Copyright 2019 Fiserv. All rights reserved.
+jQuery 1.11.3 by JS Foundation, (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license
+jQuery Mobile 1.5.0 by jQuery Foundation, Inc., Copyright 2010, 2017 jQuery Foundation, Inc.
+Modernizr 2.8.3 by Modernizr.com Team, MIT & BSD | Modernizr.com
+Debounce 1.0.0 by Jesse Fowler, Copyright 2014 Fiserv. All rights reserved.
+Resize Class 1.0.0 by JP Larson, Copyright 2019 Fiserv. All rights reserved.
+Randomizer 1.0.0 by James Padolsey, https://j11y.io/javascript/shuffling-the-dom/
+Animate CSS 3.7.0 by Daniel Eden, Copyright (c) 2013 Daniel Eden. https://daneden.github.io/animate.css/
+Font Awesome 4.7.0 by @davegandy, http://fontawesome.io/license
+Icon Font 2.0.1 by Kristen Rogers, Copyright 2018 Fiserv. All rights reserved.
+Slider 2.1.0 by Jesse Fowler, Copyright 2019 Fiserv. All rights reserved.
+Fiserv CSS 1.0.2 by Paul Richards, Copyright 2018 Fiserv. All rights reserved.
+Table Grid 2.0.0 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+CMS Include 2.0.0 by JP Larson, Copyright 2017 Fiserv. All rights reserved.
+Page Class 2.0.0 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+Ajax Post 2.0.0 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+Ajax Form 3.0.0 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+Side Navigation Generator 4.0.0 by Jesse Fowler, Copyright 2014 Fiserv. All rights reserved.
+Replace With Checkmarks 1.1.0 by Jesse Fowler, Copyright 2017 Fiserv. All rights reserved.
+Online Banking 1.5.1 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+Validate Form 1.2.1 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+Field History 2.0.1 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+Panel Navigation 3.2.0 by Paul Richards, Copyright 2016 Fiserv. All rights reserved.
+Smooth Scroll 2.2.0 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+Accessibility Tab Expand 2.1.0 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+Site Notice 4.1.0 by Jesse Fowler, Copyright 2018 Fiserv. All rights reserved.
+App Banners 2.0.0 by Jesse Fowler, Copyright 2018 Fiserv. All rights reserved.
+Anniversary Badge 2.0.0 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+Captcha 3.0.0 by Jesse Fowler, Copyright 2015 Fiserv. All rights reserved.
+Error Pages 2.0.0 by JP Larson, Copyright 2018 Fiserv. All rights reserved.
+Expander 3.0.0 by Jesse Fowler & Kristen Rogers, Copyright 2015 Fiserv. All rights reserved.
+Speedbump 1.1.0 by Jesse Fowler, Copyright 2018 Fiserv. All rights reserved.
+Google Map 2.0.0 by Fiserv, Copyright 2015 Fiserv. All rights reserved.
+Social Share 2.0.1 by Jesse Fowler, Copyright 2014 Fiserv. All rights reserved.
+Scroll Trigger 2.2.0 by Jesse Fowler & Kristen Rogers, Copyright 2016 Fiserv. All rights reserved.
+Scroll To 1.2.0 by Jesse Fowler, Copyright 2015 Fiserv. All rights reserved.
+Toolbar Side 4.0.0 by Jesse Fowler, Copyright 2018 Fiserv. All rights reserved.
+Site Slideshow 2.1.1 by Jesse Fowler & Paul Richards, Copyright 2016 Fiserv. All rights reserved.
+Lightcase 3.0.0 by @cornelboppart, GPL license
+Count Up 1.0.0 by Gareth Nolan, Copyright 2015. MIT license
+Pageless Pages 2.1.0 by JP Larson, Copyright 2017 Fiserv. All rights reserved.
+Text Color Based On Background Color 1.0.0 by Jesse Fowler, Copyright 2019 Fiserv. All rights reserved.
+Responsive Zoom 3.1.0 by Jesse Fowler, Copyright 2015 Fiserv. All rights reserved.

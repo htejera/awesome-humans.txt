@@ -1,0 +1,241 @@
+/* TEAM */
+
+Written by a cast of millions (89 to be precise).
+Maybe you too? See https://github.com/html5rocks/www.html5rocks.com/wiki/Contributors-Guide
+
+Saqoosha  
+  Katamari Inc., Programmer http://saqoo.sh/a
+Plan 8
+  Plan8, Audio Agency http://plan8.se
+Jake Archibald
+  Google, Developer Relations http://jakearchibald.com/
+Paul Bakaus
+  Google, Developer Relations http://paulbakaus.com
+Eric Bidelman
+  Google, Developer Relations http://ericbidelman.com
+Geoff Blair
+  Lost Decade Games, Programmer, Designer http://www.lostdecadegames.com
+Razvan Caliman
+  Adobe, Web Platform http://razvancaliman.com
+Raymond Camden
+  Adobe, Developer Relations http://www.raymondcamden.com
+Christian Cantrell
+  Adobe, Web Platform http://www.livingdigitally.net
+Michael Chang
+  Independent, Developer http://ghost-hack.com/
+Fred Chasen
+  Tool Of North America, Lead Developer http://www.fchasen.com
+Pearl Chen
+  Google, Developer Relations http://karma-laboratory.com
+Jeremy Chone
+  BriteSnow, Inc., Developer http://britesnow.com/
+Dominic Cooney
+  Google, Software Engineer http://dcooney.com
+Vivian Cromwell
+  Google, Developer Relations https://google.com/+viviancromwell
+Alex Danilo
+  Google, Developer Relations 
+Michael Deal
+  Orange Honey, New Product Development http://mudcu.be/
+Ernest Delgado
+  Google, Developer Relations http://ernestdelgado.com/
+Derek Detweiler
+  Gopherwood Studios, Game Designer http://gopherwoodstudios.com/
+Mike Dewey
+  deviantART, Muro 
+Sam Dutton
+  Google, Developer Relations http://samdutton.wordpress.com
+Hans Eklund
+  North Kingdom, Technical Director http://www.northkingdom.com/
+Hakim El Hattab
+  Fi, Senior Interactive Developer http://hakim.se/experiments
+Oskar Eriksson
+  Dinahmoe, Technical Director http://www.dinahmoe.com
+Arthur Evans
+  Google, Developer Relations 
+Brian Ford
+  Google, Software Engineer Intern http://briantford.com
+Brad Frost
+  R/GA, Front-end designer http://http://bradfrostweb.com/
+Christopher Gammon
+  Adobe, Web Platform http://www.cjgammon.com/
+Hanrui Gao
+  Google, Developer Relations 
+Tali Garsiel
+  Incapsula, Developer http://taligarsiel.com/
+Ewa Gasperowicz
+  Google, Developer Relations 
+Matt Gaunt
+  Google, Developer Relations https://gauntface.com/
+Matt Gaunt
+  Google, Developer Relations https://gauntface.com/
+Justin Gitlin
+  Legwork/Mode Set, Agency/Developer http://legworkstudio.com/
+Z Goddard
+  Gradient Studios, Inc., Game Developer http://gradientstudios.com/
+Adrian Gould
+  Pagoda Software, Programmer, Designer http://pagodagames.com
+Ido Green
+  Google, Developer Relations http://greenido.wordpress.com
+Eli Grey
+  ΩF:∅, Programmer http://eligrey.com/blog/
+Matt Hackett
+  Lost Decade Games, Programmer, Designer http://www.lostdecadegames.com/
+Wesley Hales
+  Red Hat, Senior Developer http://wesleyhales.com
+Umar Hansa
+  Shazam, Google Developer Expert https://github.com/umaar
+Ilmari Heikkinen
+  Google, Developer Relations http://fhtr.org
+Monsur Hossain
+  Google, Software Engineer http://monsur.hossa.in
+Paul Irish
+  Google, Developer Relations http://paulirish.com
+Daniel Isaksson
+  North Kingdom, Technical Director http://www.northkingdom.com/
+Eric Karl
+  Munkadoo Games LLC, Developer http://allthecodes.tumblr.com
+Brendan Kenny
+  Google, Developer Relations 
+Paul Kinlan
+  Google, Developer Relations http://paul.kinlan.me
+Eiji Kitamura
+  Google, Developer Relations 
+Jan Kleinert
+  Google, Developer Relations http://jankleinert.com
+Seth Ladd
+  Google, Developer Relations http://sethladd.com
+Pete LePage
+  Google, Developer Relations http://petelepage.com
+Loreena Lee
+  Google, Software Engineer 
+Paul Lewis
+  Aerotwist, Developer http://aerotwist.com
+Michael Mahemoff
+  Freelance, Web Developer http://mahemoff.com
+Renato Mangini
+  Google, Developer Relations http://renatomangini.com/
+Joe Marini
+  Google, Chrome Developer Advocate 
+Adam Mark
+  Pagoda Software, Programmer, Designer http://www.adammark.net
+Colt McAnlis
+  Google, Developer Relations http://mainroach.blogspot.com
+John McCutchan
+  Google, Developer Relations http://www.johnmccutchan.com
+Sean Middleditch
+  Subsonic LLC, Developer http://sonargame.com/
+Luigi Montanez
+  Sunlight Labs, Software Developer http://sunlightlabs.com/
+Daniel X. Moore
+  STRd6, Pixel Relations http://strd6.com
+Addy Osmani
+  Google, Developer Relations http://addyosmani.com/blog/
+Jeff Posnick
+  Google, Developer Relations 
+Thomas Reynolds
+  Instrument, Agency http://awardwinningfjords.com
+Dan Ristic
+  PubNub, Developer http://www.danristic.com
+Deanna Rubin
+  Google, Developer Relations 
+Dirk Schulze
+  Adobe, Web Platform http://blog.dschulze.com
+Ryan Seddon
+  thecssninja.com, Front-end developer http://www.thecssninja.com/
+Glen Shires
+  Google, Software Engineer 
+Boris Smus
+  Google, Developer Relations http://smus.com
+Tim Statler
+  Independent, Technical Writer 
+Gregg Tavares
+  Google, Software Engineer http://games.greggman.com/game/
+Active Theory
+  Active Theory, Creative Development http://activetheory.net
+Lilli Thompson
+  Independent, Game Developer 
+Sam Thorogood
+  Google, Developer Relations http://whistlr.info
+David Tong
+  Box.net, Box.net http://www.davidtong.me
+Malte Ubl
+  Google, Customer Solutions Engineering http://nonblocking.io
+TJ VanToll
+  Liquid Web, Web Developer http://tjvantoll.com
+Mike West
+  Google, Developer Relations https://mikewest.org/
+Marcin Wichary
+  Google, Sr. User Experience Designer http://www.aresluna.org/
+James Williams
+  Independent, Developer http://jameswilliams.be
+Chris Wilson
+  Google, Developer Relations http://cwilso.com/
+Tom Wiltzius
+  Google, Chrome Product Manager 
+gskinnerdot com
+  gskinner, Agency http://gskinner.com/
+unit9 com
+  unit9 ltd., Production Company http://unit9.com
+rob dodson
+  Google, Developer Relations 
+Einar Öberg
+  North Kingdom, Developer http://www.northkingdom.com/
+
+/* SITE */
+Standards: HTML5. A lot.
+Software: Python, Django, Bloggart.
+Humans.txt ASCII: GlassGiant.com
+Made by Google, hosted on App Engine, served with love.
+
+
+                 5555   5555 5555555555 55555  55555 5555
+                 5555   5555 5555555555 555555555555 5555
+                 55555555555    5555    555555555555 5555
+                 55555555555    5555    555555555555 5555
+                 5555   5555    5555    5555 55 5555 555555555
+                 5555   5555    5555    5555    5555 555555555
+
+
+
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH            
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH            
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH            
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTTTTTTTTTTTTTTTTTTHHHHH             
+            HHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTTTTTTTTTTTTTTTTTTHHHHH             
+            HHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTTTTTTTTTTTTTTTTTTHHHHH             
+            HHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTTTTTTTTTTTTTTTTTTHHHHH             
+            HHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTTTTTTTTTTTTTTTTTTHHHHH             
+            HHHHHHHHHHllllllllllllllllll                 TTTTTHHHHH             
+            HHHHHHHHHHllllllllllllllllll                 TTTTTHHHHH             
+            HHHHHHHHHHllllllllllllllllll                 TTTTTHHHH              
+            HHHHHHHHHHllllllllllllllllll                 TTTTHHHHH              
+             HHHHHHHHHllllllllMMMMMMMMMMTTTTTTTTTTTTTTTTTTTTTHHHHH              
+             HHHHHHHHHllllllllMMMMMMMMMMTTTTTTTTTTTTTTTTTTTTTHHHHH              
+             HHHHHHHHHllllllllMMMMMMMMMMTTTTTTTTTTTTTTTTTTTTTHHHHH              
+             HHHHHHHHHHlllllllMMMMMMMMMMTTTTTTTTTTTTTTTTTTTTTHHHHH              
+             HHHHHHHHHHlllllllMMMMMMMMMMTTTTTTTTTTTTTTTTTTTTTHHHHH              
+             HHHHHHHHHHlllllllllllllllll                TTTTTHHHH               
+             HHHHHHHHHHlllllllllllllllll                TTTTHHHHH               
+              HHHHHHHHHlllllllllllllllll                TTTTHHHHH               
+              HHHHHHHHHlllllllllllllllll               TTTTTHHHHH               
+              HHHHHHHHHHllllllllllllllll               TTTTTHHHHH               
+              HHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTTTT       TTTTTHHHHH               
+              HHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTTTT       TTTTTHHHHH               
+              HHHHHHHHHHlllllllHHHHHHHHHTTTTTTTT       TTTTTHHHHH               
+              HHHHHHHHHHlllllllHHHHHHHHHTTTTTTTT       TTTTHHHHH                
+               HHHHHHHHHlllllll?HHHHHHHHTTTTTTT        TTTTHHHHH                
+               HHHHHHHHHllllllllHHHHHHHHTTTTTTT        TTTTHHHHH                
+               HHHHHHHHHHllllllllllllHHHTT             TTTTHHHHH                
+               HHHHHHHHHHlllllllllllllll              TTTTTHHHHH                
+               HHHHHHHHHHlllllllllllllll              TTTTTHHHHH                
+               HHHHHHHHHHHHHllllllllllll            TTTTTTTHHHHH                
+               HHHHHHHHHHHHHHHHHHlllllll      TTTTTTTTTTTTHHHHH                 
+               HHHHHHHHHHHHHHHHHHHHHHHHlTTTTTTTTTTTTTTTTTTHHHHH                 
+                HHHHHHHHHHHHHHHHHHHHHHHHTTTTTTTTTTTTTTTTTTHHHHH                 
+                HHHHHHHHHHHHHHHHHHHHHHHHTTTTTTTTTTTTTTTHHHHHHHH                 
+                HHHHHHHHHHHHHHHHHHHHHHHHTTTTTTTTTHHHHHHHHHHHHHH                 
+                 HHHHHHHHHHHHHHHHHHHHHHHTTTTHHHHHHHHHHHHHHHHHH                  
+                      HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                        
+                            HHHHHHHHHHHHHHHHHHHHHHH                             
+                                  HHHHHHHHHHH                                   

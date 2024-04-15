@@ -1,0 +1,9 @@
+# THANKS
+- Alex Murtough (he/him)
+- Chloe Tye (she/her)	
+- Tom Sheppard (he/him)
+                            
+# SITE
+Last update: 12/05/2022   
+Standards: HTML5, CSS3, JS                    
+Software: Eleventy, TailwindCSS, Netlify

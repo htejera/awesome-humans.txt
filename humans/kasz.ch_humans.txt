@@ -1,0 +1,19 @@
+
+/* TEAM */
+	Your title: Prof. Dr. med. Thomas Frick
+	Address: Alte Landstrasse 85, 8702 Zollikon, Z&uuml;rich, Switzerland
+	Site: http://kasz.ch/
+	Twitter: -
+	Location: Z&uuml;rich, Switzerland
+  
+/* THANKS */
+	http://foundation.zurb.com/
+	http://www.w3schools.com/default.asp
+	http://komodoide.com/komodo-edit/
+
+/* SITE */
+	Last update: 2018/10/11 - 15:58
+	Standards: HTML5, CSS3
+	Components: jQuery
+	Software: Komodo Edit 8.5
+

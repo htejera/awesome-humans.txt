@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+
+   Webmaster: mohamed lotfi <lotfi-210000@hotmail.fr>
+
+
+/* THANKS */
+
+   Humans.txt: http://humanstxt.org
+
+/* SITE */
+
+   Last update: 2019/02/28
+   Language: French
+   Standards: HTML5, CSS3
+   IDE: Sublime text
+  

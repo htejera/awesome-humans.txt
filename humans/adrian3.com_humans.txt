@@ -1,0 +1,27 @@
+    ___       __     _            _____                     
+   /   | ____/ /____(_)___ _____ |__  / _________  ____ ___ 
+  / /| |/ __  / ___/ / __ `/ __ \ /_ < / ___/ __ \/ __ `__ \
+ / ___ / /_/ / /  / / /_/ / / / /__/ // /__/ /_/ / / / / / /
+/_/  |_\__,_/_/  /_/\__,_/_/ /_/____(_)___/\____/_/ /_/ /_/ 
+
+_______________________________________________________________________________
+
+This humans.txt file explains the person, technology,
+and graphic assets behind this site.
+_______________________________________________________________________________
+
+TEAM
+This website was hand-crafted by Adrian Hanft, III. 
+_______________________________________________________________________________
+
+TECHNOLOGY
+This site was built with as little technology as possible.
+
+iPad Pro + Editorial + Coda + Transmit
+Dreamhost for file hosting
+Whisper is my CMS alternative
+_______________________________________________________________________________
+
+FONTS
+Vollkorn, by Friedrich Althausen
+Montserratt, by Julieta Ulanovsky

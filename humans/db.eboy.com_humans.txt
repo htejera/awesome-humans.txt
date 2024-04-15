@@ -1,0 +1,39 @@
+/* ABOUT */
+Name: eBoy
+Members: Kai Vermehr, Steffen Sauerteig and Svend Smital
+Email: eboy@eboy.com
+Phone: USA +1 (323) 940-3269 | Germany +49 (30) 1300 5805
+Location: Los Angeles USA | Berlin Germany
+
+/* SOCIAL */
+Twitter: @eBoyArts
+Threads: @eBoyArts
+Instagram: @eBoyArts
+BlueSky: @eboy.bsky.social
+
+/* PURPOSE */
+eBoy creates re-usable pixel objects and takes them to build complex and extensible artwork
+
+/* PROJECTS */
+Pixorama, eCity, ePaul, Peecol, SuperHead, MicroHead, NanoFace, Blockbob, FixPix, TheGrix, polyLOL, TiliX
+
+/* CONTACT */
+eBoy: for commissions, or shopping https://eboy.com
+Patreon: support this database https://www.patreon.com/eboyarts
+PayPal: https://www.paypal.me/eboylove
+
+/* SITE */
+Standards: HTML5, CSS3, Javascript ES2016
+Components: Meteor, MongoDB
+IDE: Visual Studio Code
+Language: English, German
+Project Name: Rainbow
+GitHub: https://github.com/c6y/rainbow
+Issues: https://github.com/c6y/rainbow/issues
+
+/* CONTENT */
+File formats: .png, .gif, .jpeg
+Software: Adobe Photoshop, Blender, Sketch
+Tools: Photoshop pen
+Copyright: mostly CC BY-NC-ND 4.0, please do contact us
+Tags: pixel art, modular art, 3D, toys

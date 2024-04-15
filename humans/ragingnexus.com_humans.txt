@@ -1,0 +1,12 @@
+/* TEAM */
+Author: David Ramalho
+Site: david@ragingnexus.com
+Twitter: @dramalho
+Location: Dublin, Ireland
+
+/* SITE */
+Last update: 2022/12/18
+Language: English
+Doctype: HTML5
+Components: Foundation CSS, P5.js, Three.js, Animate.css
+Software: VS Code, Jekyll, Ruby

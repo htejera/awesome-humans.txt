@@ -1,0 +1,62 @@
+/* Humans responsible & Colophon */
+
+  The humans responsible for
+  producing this site are
+  listed here. We work hard
+  to make the Internet a
+  more beautiful place and
+  use the latest standards.
+
+  Site name: Policymakr
+  URL: https://www.policymakr.com/
+
+/* TEAM */
+  Web design: Donald Jenkins
+  Site: https://donaldjenkins.com/
+  Twitter: @donaldjenkins
+  Location: New York, NY
+  Tagline: Compassion is invincible
+
+  Strategy consultant: Niels Ackermann
+  Site: https://www.nack.ch/
+  Twitter: @nielsack
+  Location: Geneva, Switzerland
+  
+  Technical consultant: Ron Erdos
+  Site: https://moonbooth.com
+  Twitter: @RonErdos
+  Location: Sydney, Australia
+
+  Design consultant: Rainer Torrado
+  Site: https://www.rainertorrado.art/
+  Instagram: @rainertorrado
+  Location: Paris, France
+
+  Design framework: Bulma
+  Site: https://bulma.io/
+
+  Website builder: Hugo
+  Site: https://gohugo.io/
+  
+  Host: CloudFlare
+  Site: https://www.cloudflare.com/
+
+
+/* SITE */
+  Last update: 2023-02-25
+  CMS: Hugo
+  Host: Cloudflare Pages
+  Server: Workers KV
+  Network environment: Jamstack
+  Language: English
+  Doctype: HTML5
+  Components used: Google
+  Fonts, Bulma, Sass, GitHub 
+  Font 1: Dosis by Impallari
+  Type
+  Font 2: Assistant by
+  Ben Nathan
+  IDE: Panic Nova, Affinity Designer,
+  CodeKit, Espresso
+
+[Credit for this page: http://humanstxt.org/]

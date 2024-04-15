@@ -1,0 +1,20 @@
+/* TEAM */
+
+Guthrie Weinschenk - Coder, Website Designer, Headed up Website Development (info@theteamw.com)
+Susan Weinschenk - Provided Website Content, Assisted on Layout and Design  (susan@theteamw.com)
+
+/* THANKS */
+
+Our thanks goes out to http://humanstxt.org/ for their inspiration to create this file and the philosophy behind it.
+We would like to thank the amazing team over at http://www.googleventures.com/ for the work they do to support and create a more beautiful internet.
+We would also like to thank http://twitter.github.io/bootstrap for their work. This website would not exist without their vision.
+
+/* SITE */
+Initial Website Creation Occurred May 2013-July 2013
+Current Generation Occurred 2021
+From Chicago, IL and Edgar, WI
+
+Components:
+
+The base site was created using Bootstrap.
+Coding of the cite was done on our server.

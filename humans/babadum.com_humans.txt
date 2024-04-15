@@ -1,0 +1,34 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Aleksandra Mizielinska and Daniel Mizielinski, Hipopotam Studio
+  Site: http://www.hipopotamstudio.pl
+  Twitter: @hipopotam
+  Facebook: http://www.facebook.com/HipopotamStudio
+  Location: Warsaw, Poland
+
+/* App */
+  Server side: PHP, MySQL
+  Standards: HTML5, CSS3, SVG
+  Components:
+    Modernizr (http://modernizr.com/)
+    jQuery (http://jquery.com/)
+    Normalize (http://necolas.github.com/normalize.css/)
+    HTML5 Boilerplate (http://html5boilerplate.com/)
+    History.js (https://github.com/browserstate/history.js)
+    howler.js (http://howlerjs.com)
+    GAPI - Google Analytics PHP Interface for "Players around the world" section in "Statistics" (http://code.google.com/p/gapi-google-analytics-php-interface/)
+
+  We use Errorception for JS error tracking (https://errorception.com)
+
+  Optimized using ant-build-script (https://github.com/h5bp/ant-build-script)
+
+/* Font */
+Mr Dum Dum Heavy designed by Aleksandra Mizielinska and Daniel Mizielinski for this App
+  
+  ^oo^
+  (..)
+ ()  ()
+ ()__()

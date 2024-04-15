@@ -1,0 +1,95 @@
+/* CURRENT TEAM */
+
+Name: Kati Price
+Role: Head of Digital Media & Publishing
+Company: V&A Digital Media
+
+Name: Jack Craig
+Role: Design Lead
+Company: V&A Digital Media
+
+Name: Simon Ashbery
+Role: Web Developer
+Company: V&A Digital Media
+
+Name: Luca Carini
+Role: Front-end Developer
+Company: V&A Digital Media
+
+Name: Duncan Gough
+Role: Technical Lead
+Company: V&A Digital Media
+Web: https://suttree.com
+
+Name: Eva Liparova
+Role: Product Manager
+Company: V&A Digital Media
+Web: http://www.evaliparova.com/
+Twitter: @evaliparova
+
+Name: Richard Palmer
+Role: Back-end Developer
+Company: V&A Digital Media
+
+Name: Chris Unitt
+Role: Digital analytics
+Company: One Further
+Web: https://onefurther.com
+Twitter: @chrisunitt
+
+Name: Andrew White
+Role: DevOps Engineer
+Company: Unboxed
+Web: https://unboxed.co/people#andrew-white
+Twitter: @pixeltrix
+
+Name: Adam Hunt
+Role: Designer
+Company: ak&co
+Web: https://ak-and.co.uk/
+
+/* PAST TEAM */
+
+Name: Chris Pearson
+Role: Designer
+Company: V&A Digital Media
+Web: http://www.chrispearsondesign.co.uk
+Twitter: @c_p_pearson
+
+Name: James Doc
+Role: Developer
+Company: V&A Digital Media
+Web: http://jamesdoc.com
+Twitter: @jamesdoc
+
+Name: Tara Bloom
+Role: Scrum master
+Company: Made by Many
+Twitter: @scandaloust
+Years: 2015-2016
+
+Name: Dan Brown
+Role: Back-end Developer
+Company: Made by Many
+Web: https://stompydan.net/
+Twitter: @stompydan
+Years: 2015-2016
+
+Name: Callum Jefferies
+Role: Front-end Developer
+Company: Made by Many
+Web: http://callumj.uk/
+Twitter: @callumj_
+Years: 2015-2016
+
+Name: Jamie Mayes
+Role: QA
+Company: Made by Many
+Years: 2015-2016
+
+Name: Andrew Walker
+Role: Technical Director
+Company: Made by Many
+Web: http://ninjabiscu.it/
+Twitter: @ninjabiscuit
+Years: 2015-2016

@@ -1,0 +1,120 @@
+  __               __      __
+ /\ \             /\ \__  /\ \__
+ \_\ \       __   \ \ ,_\ \ \ ,_\     ___
+ /'_` \    /'__`\  \ \ \/  \ \ \/    / __`\
+/\ \L\ \  /\ \L\.\_ \ \ \_  \ \ \_  /\ \L\ \
+\ \___,_\ \ \__/.\_\ \ \__\  \ \__\ \ \____/
+ \/__,_ /  \/__/\/_/  \/__/   \/__/  \/___/
+
+Designed and developed in-house by the Datto Web Team.
+Design and content support by MindTrust Labs.
+Any questions or comments, please email web [at] datto [dot] com
+
+Special thanks to Google Ventures (gv.com) for the idea of a humans.txt file.
+
+_______________________________________
+
+DATTO WEBSITE DEVELOPMENT & DESIGN
+
+Ian O'Brien
+Project Lead
+
+Pippa Bradberry
+UI, UX & Art Direction
+
+Nick Mann
+Engineering Lead
+
+Gillon Bator
+Development, DevOps & Backend
+
+Caitlin Gleason
+Development & Animation
+
+David Kazibut
+Development
+
+Sarah Talbot
+Lead Animator
+
+Nick Youmans
+Autotask Development
+
+Melissa Stanton
+Project Manager
+
+Charlie Coombs
+Iconography and Illustration
+
+_______________________________________
+
+MINDTRUST LABS DESIGN & DEVELOPMENT
+
+Christopher Errato
+Team Lead / Digital Strategist
+
+Todd Violano
+Creative Director
+
+Rul Lopez
+Art Direction & Design
+
+Oldemar Alfaro
+Design
+
+Javier Crocco Mendez
+Design
+
+Lital Rosenberg
+Digital Strategy, Content & Copywriting
+
+Gabriel Oliver
+Database Migration
+
+Barnabas Kecskes
+Database Migration
+
+_______________________________________
+
+SPECIAL THANKS
+
+Liam Curtis
+Alex Snow
+Tobias Geisler Mesevage
+Matt Reilly
+Chris Brunau
+Matt Richards
+Christian Kane
+Michael Ciarcia
+Dory Viscogliosi
+George Rouse
+Grace Fitzgerald
+Scott West
+Tai Martire
+Angela Diaco
+S Roland Marshall
+
+_______________________________________
+
+TECHNOLOGY
+
+Craft - Content Management
+craftcms.com
+
+Webpack - Task Awesomeness
+https://webpack.js.org/
+
+LESS.js - CSS Pre-processor
+lesscss.org
+
+GitLab - Collaboration
+gitlab.com
+
+Greensock - Animation Framework
+greensock.com
+
+Greenhouse - Hiring System
+greenhouse.com
+
+JS Libraries:
+jQuery, PerfectScrollbar.js, Slick Carousel, Anime.js, Barba.js

@@ -1,0 +1,12 @@
+jfzuluaga.com es un website personal mantenido, escrito, desarrollado y sufrido por Juan Fernando Zuluaga. 
+
+/* TEAM */
+Author: Juan Fernando Zuluaga C.
+Website: http://jfzuluaga.com/jfz
+Email: info@jfzuluaga.com    
+Twitter: @jfzuluaga
+Location: Colombia
+			
+/* SITE */
+Last update: 2011/05/24
+Standards: HTML5, CSS3,..

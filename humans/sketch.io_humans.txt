@@ -1,0 +1,264 @@
+  ___________           __         .__         .__
+ /   _____/  | __ _____/  |_  ____ |  |__      |__| ____
+ \_____  \|  |/ // __ \   __\/ ___\|  |  \     |  |/  _ \
+ /        \    <\  ___/|  | \  \___|   Y  \    |  (  <_> )
+/_______  /__|_ \\___  >__|  \___  >___|  / /\ |__|\____/
+		\/     \/    \/          \/     \/  \/
+
+/* TEAM */
+
+    Dev/Design             Michael Deal (https://galactic.ink)
+    Dev                    Kenneth Pullen (https://github.com/sirovenmitts)
+    Dev/Outreach           Ryan Reece (ryan@sketch.io)
+
+/* CONTRIBUTORS */
+
+    Design Consultant      Bonnie Deal (http://bonideal.com)
+    Design Consultant      Daniel Christopher (http://uxmonk.com)
+    Dev Consultant         Nick James (@nicksort)
+    UX Consultant          Olivia Wycoff
+
+    QA Testers             Hannah Beinstein (https://github.com/HBeinstein)
+                           Thomas Glenn (https://github.com/thomasglenngit)
+                           Peter Grimm (https://github.com/pagrimm)
+                           Jeffery Kim (https://github.com/jkbutserious)
+                           Brittany Lindgren (https://github.com/LINDGRENBA)
+
+/* SPECIAL THANKS TO THE FOLLOWING :) */
+
+/* LIBRARIES */
+
+    Project     Alertify.js
+    URL         https://github.com/fabien-d/alertify.js
+    Author      Fabien Doiron
+    License     MIT
+
+    Project     Bezier Easing
+    URL         https://github.com/gre/bezier-easing
+    Author      Gaëtan Renaudeau
+    License     MIT
+
+    Project     Blob.js
+    URL         https://github.com/eligrey/Blob.js
+    Author      Eli Grey
+    License     MIT/X11
+
+    Project     Clipboard.js
+    URL         https://github.com/zenorocha/clipboard.js/
+    Author      Zeno Rocha
+    License     MIT
+
+    Project     Canvas-toBlob.js
+    URL         https://github.com/eligrey/canvas-toBlob.js
+    Author      Eli Grey
+    License     MIT/X11
+
+    Project     Canvas2SVG
+    URL         https://github.com/gliffy/canvas2svg
+    Author      Gliffy Inc.
+    License     MIT
+
+    Project     Clusterize.js
+    URL         https://github.com/NeXTs/Clusterize.js
+    Author      Denis Lukov
+    License     $
+
+    Project     ColorSpace.js
+    URL         https://github.com/mudcube/Color.Space.js
+    Author      Michael Deal
+    License     MIT
+
+    Project     ContextMenu.js
+    URL         https://github.com/aantthony/contextmenu
+    Author      Anthony Foster
+    License     MIT
+
+    Project     Event.js
+    URL         https://github.com/mudcube/Event.js
+    Author      Michael Deal
+    License     MIT
+
+    Project     FileSaver.js
+    URL         http://purl.eligrey.com/github/FileSaver.js
+    Author      Eli Grey
+    License     MIT/X11
+
+    Project     GLFX.js
+    URL         https://github.com/evanw/glfx.js
+    Author      Evan Wallace
+    License     MIT
+
+    Project     GLSL Simplex Noise
+    URL         https://github.com/ashima/webgl-noise
+    Author      Ian McEwan
+    License     MIT
+
+    Project     GLSL Blend Modes, GLSL Old Film
+    URL         http://www.nutty.ca/articles/
+    Author      Nathaniel Meyer
+    License     Nutty
+
+    Project     GLSL Colorify
+    URL         https://github.com/mrdoob/three.js
+    Author      alteredq
+    License     MIT
+
+    Project     GLSL Color Map
+    URL         https://code.google.com/p/webglsamples
+    Author      Google
+    License     BSD
+
+    Project     GLSL Kaleidoscope
+    URL         http://pixelshaders.com/editor/
+    Author      Toby Schachman
+    License     ~
+
+    Project     GLSL LumaKey, GLSL Scanline, GLSL TVGlitch
+    URL         http://seriouslyjs.org
+    Author      Brian Chirls
+    License     MIT
+
+    Project     HTML2Canvas
+    URL         https://github.com/niklasvh/html2canvas
+    Author      Niklas von Hertzen
+    License     MIT
+
+    Project     IDB.FileSystem
+    URL         https://github.com/ebidel/idb.filesystem.js/
+    Author      Eric Bidelman
+    License     Apache2
+
+    Project     Infinite Tree
+    URL         https://github.com/cheton/infinite-tree
+    Author      Cheton Wu
+    License     MIT
+
+    Project     jsPDF
+    URL         https://github.com/MrRio/jsPDF
+    Author      James Hall
+    License     MIT
+
+    Project     Javascript Clipper
+    URL         http://sourceforge.net/p/jsclipper/wiki/documentation/
+    Author      Timo Kähkönen
+    License     BSL1.0
+
+    Project     JSON Diff Patch
+    URL         https://github.com/benjamine/jsondiffpatch
+    Author      Benjamín Eidelman
+    License     MIT
+
+    Project     Lunr.js
+    URL         https://github.com/olivernn/lunr.js/
+    Author      Oliver Nightingale
+    License     MIT
+
+    Project     Morf.js
+    URL         https://github.com/joelambert/morf
+    Author      Joe Lambert
+    License     MIT
+
+    Project     NodeWebkit
+    URL         https://github.com/rogerwang/node-webkit
+    Author      Roger Wang
+    License     MIT
+
+    Project     OpenType.js
+    URL         https://github.com/nodebox/opentype.js
+    Author      Frederik De Bleser
+    License     MIT
+
+    Project     PDF.js
+    URL         http://mozilla.github.io/pdf.js
+    Author      Mozilla
+    License     Apache2
+
+    Project     Perfect Scrollbar
+    URL         https://github.com/noraesae/perfect-scrollbar
+    Author      Hyunje Alex Jun
+    License     MIT
+
+    Project     PSD.js
+    URL         https://github.com/imaya/psd.js
+    Author      Imaya Yuta
+    License     MIT
+
+    Project     Web Torrent
+    URL         https://github.com/feross/webtorrent
+    Author      WebTorrent, LLC
+    License     MIT
+
+    Project     ZIP.js
+    URL         http://gildas-lormeau.github.io/zip.js
+    Author      Gildas Lormeau
+    License     BSD
+
+/* BRUSHES */
+
+    Project     Chrome, Shaded, Sketchy, Web & Fur brushes
+    URL         http://mrdoob.com/projects/harmony/
+    Author      Mr. Doob
+    License     MIT
+
+    Project     Streamer brush
+    URL         http://dangries.com/
+    Author      Dan Gries
+    License     ~
+
+/* RESOURCES */
+
+    Project     Font Awesome
+    URL         http://fontawesome.io/icons/
+    Author      Dave Gandy
+    License     OFL
+
+    Project     Google Web Fonts
+    URL         http://code.google.com/p/googlefontdirectory/
+    License     Multiple
+
+    Project     IcoMoon Ultimate
+    URL         http://icomoon.io/
+    Author      Keyamoon
+    License     $
+
+    Project     Open Clipart
+    URL         http://openclipart.org/
+    Author      Einar Lielmanis
+    License     PD
+
+    Project     Only GFX
+    URL         http://onlygfx.com/
+    Author      Zolee
+    License     ~
+    
+    Project     99Designs
+    URL         https://99designs.com/profiles/Armanto
+    Author      Armanto
+    License     ~
+
+/* ICONS */
+
+    Project     Crayon icon
+    URL         http://thenounproject.com/
+    Author      Edward Boatman
+    License     $
+
+    Project     Paintbrush icon
+    URL         http://thenounproject.com/
+    Author      Drew Ellis
+    License     $
+
+    Project     Path & Polyline icons
+    URL         http://thenounproject.com/
+    Author      iconsmind.com
+    License     $
+
+    Project     Pen icon
+    URL         http://thenounproject.com/
+    Author      Simple Icons
+    License     $
+
+    Project     Spraypaint icon
+    URL         http://thenounproject.com/
+    Author      Yaroslav Samoilov
+    License     $

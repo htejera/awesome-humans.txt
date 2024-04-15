@@ -1,0 +1,13 @@
+/* TEAM */
+	Web designer: Ren� Meschuh
+	Contact: rene [at] ts-animations.com
+	From: Carinthia, Austria
+
+    Server Admin, Network Guru: Michael Raunig
+    From: Carinthia, Austria
+
+/* SITE */
+	Last update:2023/01/23
+	Language:German
+	Doctype:html, php
+	IDE:vim, gimp

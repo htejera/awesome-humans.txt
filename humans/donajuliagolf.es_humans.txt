@@ -1,0 +1,13 @@
+﻿/* TEAM */
+
+	WordPress Developer & Web designer: Cien por Cien Golf
+	Contact:info[at]cienporciengolf.com
+	Website: www.cienporciengolf.com
+	From: Málaga, Andalucía, Spain
+
+/* SITE */
+
+	Last update: 2022/02/21
+
+	Doctype:HTML5
+	Tools: WordPress, jquery, html5, css, css3

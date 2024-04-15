@@ -1,0 +1,46 @@
+# Team
+
+## Webdev + Webdesign
+*	Forge Business Imagery
+	https://forge.co.tt
+
+## Website Administration
+*	Gabrielle Gilliland
+	https://www.linkedin.com/in/gabriellegilliland/
+
+## Photography
+*	Alex Smailes / Abovegroup
+	http://abovegroup.com
+
+*	Jeremy Matouk
+	https://shopcru.com
+
+*	Panorama of a Vinyard by Tim Mossholder via pixabay.com
+
+*	Sledgehammer by Rene Rauschenberger via pixabay.com
+
+
+
+# Open Source + Creative Commons
+
+*	Shopping Cart Icon
+ 	Zurb via Flaticon
+ 	https://www.flaticon.com/authors/zurb
+
+*	Wine Bottle Icon
+	Freepik via Flaticon
+	https://www.flaticon.com/authors/freepik
+
+*	Magnifying Glass Icon
+	Google via Flaticon
+	https://www.flaticon.com/authors/google
+
+*	Wine Cork Texture
+	Atle Mo via toptal.com
+	http://atle.co/
+
+*	resize_image PHP Class
+	Gabriel Livan via BitRepository
+	http://www.bitrepository.com/about
+
+*	Smashicons via flaticons.com

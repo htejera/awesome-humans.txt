@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Kai Clavier -- @KaiClavier
+    LF -- @LearlessFeader
+
+# THANKS
+
+    Jan Kovarik -- Glyphicons -- @glyphicons
+    Takorii -- Kai Portrait & Hosting -- @takorii
+    Janis Skarnelis -- fancyBox from fancyApps -- @thefancyapps
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Bootstrap, Glyphicons, Holder, HTML5 Boilerplate, jQuery, Konami, Modernizr, and Respond

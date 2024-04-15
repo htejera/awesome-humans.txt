@@ -1,0 +1,20 @@
+/* TEAM */
+
+	Web designer & Developer: Daniel Fiebig
+	Site: info@bisdato-art.com, www.bisdato-art.com
+	Twitter: @DanielFiebig
+	From: Berlin, Germany
+
+/* THANKS */
+
+	Look & feel helper: Lars Bormann
+	From: Berlin, Germany
+
+	Dad & Trainer at PSV: Martin Fiebig
+	From: Berlin, Germany
+
+/* SITE */
+	Last update:2013/09/12
+	Language: Deutsch
+	Doctype:HTML5
+	IDE: Sublime Text, Notepad++, FileZilla, Photoshop, Bridge, Illustrator, The JPEG Reducer, PNGGauntlet

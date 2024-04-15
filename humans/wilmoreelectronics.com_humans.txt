@@ -1,0 +1,80 @@
+# https://www.wilmoreelectronics.com
+
+### The humans responsible & technology colophon
+
+# TEAM
+
+    Web designer: Evan Rosegren
+    Contact: something [at] somewhere
+    Twitter: none
+    From: North Carolina, USA
+
+    Photography: Dean White
+    Contact: something [at] somewhere
+    Twitter: none
+    From: North Carolina, USA
+
+
+# THANKS
+
+    UI Review: Daniel Ely
+    Contact: something [at] somewhere
+    Twitter: none
+    From: North Carolina, USA
+
+    Feedback Form: Christopher Heng
+    URL: https://www.thesitewizard.com
+
+# IMAGE ATTRIBUTION
+
+    Image: Amtrak Train 42
+    Author: jpmueller99
+    URL: https://commons.wikimedia.org/wiki/File%3AAmtrak_Train_42_(6259336966).jpg
+    License: CC BY 2.0
+    License URL: https://creativecommons.org/licenses/by/2.0
+    Location: Shenandoah Valley of VA, USA
+
+    Image: Cell Phone Tower Monnickendam
+    Author: Hnapel
+    URL: https://commons.wikimedia.org/wiki/File%3ACell_Phone_Tower_Monnickendam.jpg
+    License:CC BY-SA 4.0
+    License URL: https://creativecommons.org/licenses/by-sa/4.0
+    Location: Monnickendam, Amsterdam
+
+    Image: Gulf Offshore Platform
+    Author: Chad Teer
+    URL:https://commons.wikimedia.org/wiki/File%3AGulf_Offshore_Platform.jpg
+    License: CC BY 2.0
+    License URL: https://creativecommons.org/licenses/by/2.0
+    Location: Gulf of Mexico, port location Cd. Del Carmen
+
+    Image: Metro Rapid 780
+    Author: The Port of Authority
+    URL: https://commons.wikimedia.org/wiki/File%3AMetro-Rapid-780.jpg
+    License: CC BY 3.0
+    License URL: https://creativecommons.org/licenses/by/3.0
+    Location: Eagle Rock, California.
+
+    Image: Tektronix MDO4000 Mixed Domain Oscilloscope
+    Author: Binarysequence
+    URL: https://commons.wikimedia.org/wiki/File%3ATektronix_MDO4000_Mixed_Domain_Oscilloscope.png
+    License: CC BY-SA 3.0
+    License URL: https://creativecommons.org/licenses/by-sa/3.0
+    Location: Unknown
+
+    Image: 3D Box
+    Author: kunal
+    URL: https://commons.wikimedia.org/wiki/File%3A3_D-Box.jpg
+    License: CC BY-SA 3.0
+    License URL: https://creativecommons.org/licenses/by-sa/3.0
+    Location: Unknown
+
+# SITE
+
+    Last updated:Tue Jan 09 2024 20:45:55 GMT-0500 (Eastern Standard Time)
+    Version:     7.1.0
+    Language:    English (US)
+    Standards:   HTML5, CSS3, JavaScript
+    Components:  HTML5 Boilerplate, Modernizr, Normalize.css
+    Software:    Visual Studio Code, Adobe Photoshop, Gimp, Inkscape
+    Build Tools: Nodejs, Npm, Gulp

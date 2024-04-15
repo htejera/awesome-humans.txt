@@ -1,0 +1,31 @@
+/* TEAM */
+
+UI developer: Gian Luca Partengo.
+Contact: info [at] bridweb.it
+Location: Torino, Italia.
+
+Webmaster: Gian Luca Partengo.
+Contact: info [at] bridweb.it
+Location: Torino, Italia.
+
+Web designer: Gian Luca Partengo.
+Contact: info [at] bridweb.it
+Location: Torino, Italia.
+
+Organic SEO: Gian Luca Partengo.
+Contact: info [at] bridweb.it
+Location: Torino, Italia.
+
+Content & Copy: Isfand Yar Sohail <isfanomics@hotmail.com>.
+Contact: isfanomics [at] hotmail.com
+Location: Torino, Italia
+
+/* THANKS */
+Server service: Keliweb S.r.l.
+Website: https://www.keliweb.it/
+
+/* SITE */
+Last update: 12/2020 
+Standards: Avada Theme, HTML, PHP, CSS3 etc.
+Components: WordPress, WPML, WP-Rocket, Yoast SEO etc.
+Software: WordPress, Avada Page Builder (Visual Composer), Notepad++, Photoshop, Illustrator

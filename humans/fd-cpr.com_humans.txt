@@ -1,0 +1,28 @@
+/* TEAM */
+  Founder:Michael Herbert
+  Contact: mike.herbert.nrp [at] gmail.com
+  Twitter: @bigGermanMike
+  From:Leland, North Carolina, USA
+  
+  Founder:Christopher Watford
+  Contact: christopher.watford [at] gmail.com
+  Twitter: @ecgwatford
+  From:Wilmington, North Carolina, USA
+  
+/* THANKS */
+  Inspiration:Tom Bouthillet
+  Contact: ems12lead [at] gmail.com
+  Twitter: @tbouthillet
+  
+  Video:Ancient Arbor Productions (Jacob Barnard, Isaac Barnard, Tyler Leslie, Daniel Henderson)
+  URL:https://www.facebook.com/ancientarborproductions
+  Location:Wilmington, North Carolina, USA
+  
+  Actors:Justin Aaron, Kevin Brown, Louis Coppola, Michael Herbert, David Owens, Brandon Price, JR Spencer
+  
+/* SITE */
+  Last update: 2023/03/02
+  Language: English
+  Doctype: HTML5
+  Components: Bootstrap, FontAwesome
+  IDE: Github, VS Code, Nano, Paint.Net

@@ -1,0 +1,75 @@
+# Team #
+
+## Webdev ##
+
+*	Forge Business Imagery
+	http://forge.co.tt
+
+
+## Graphic Design ##
+
+*	Maleika Samuel Attawel
+	https://dribbble.com/maleika
+
+*	Ayrïd Chandler
+	http://ayridchandler.com/
+
+
+## Data Management ##
+
+*	Catherine Sforza
+	https://instagram.com/sforzamedia
+
+
+# Open Source + Creative Commons #
+
+*	shorten_text() PHP Function
+	stankusl
+	https://gist.github.com/stankusl/
+
+*	Slick
+	Ken Wheeler
+	http://kenwheeler.github.io/slick/
+
+*	Category Single Templates / single-{category_slug}.php
+	Andy Brudtkuhl
+	https://brudtkuhl.com/
+
+*	Filetype Icons
+	Smashicons via Flaticon
+	https://smashicons.com/
+	https://www.flaticon.com/authors/smashicons
+
+*	Film Roll Icon
+	Freepik via Flaticon
+	http://www.flaticon.com/authors/freepik
+
+*	Flickr SVG Icon
+	Dave Gandy via Flaticon
+	http://www.flaticon.com/authors/dave-gandy
+
+*	Play Icon
+	Appzgear via Flaticon
+	http://appzgear.com/
+	https://www.flaticon.com/authors/appzgear
+
+*	Swipe Icon
+	Freepik via Flaticon
+	http://www.flaticon.com/authors/freepik
+
+*	Zip Folder Icon
+	Andrea Soragna via IconArchive
+	https://sora-meliae.deviantart.com/
+
+
+# The Community #
+
+*	Youtube RegEx
+	Benjam
+	https://stackoverflow.com/users/721578/benjam
+	https://stackoverflow.com/questions/2936467/parse-youtube-video-id-using-preg-match
+
+*	Vimeo RegEx
+	Martin Ender
+	https://stackoverflow.com/users/1633117/martin-ender
+	https://stackoverflow.com/questions/13286785/get-video-id-from-vimeo-url

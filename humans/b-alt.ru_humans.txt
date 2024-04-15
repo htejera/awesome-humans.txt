@@ -1,0 +1,42 @@
+/* TEAM */
+
+	Chief: Dmitry Sklyarov
+	Contact: ds [at] b-alt.ru
+	Twitter: @B_Allied
+	From: Volzhsky, Russia
+
+	Code Magic: Boris Gribov
+	Contact: bg [at] b-alt.ru	
+	From: Volzhsky, Russia
+	
+	Software Development Management: Andrey Litvinov
+	Contact: al [at] b-alt.ru	
+	From: Volzhsky, Russia	
+	
+	Lead Programmer: Oleg Ohonko
+	From: Volzhsky, Russia	
+
+	Senior Programmer: Dmitry Tretyakov
+	From: Volzhsky, Russia		
+
+	1C Programmer: Alexey Vorobyov
+	From: Volzhsky, Russia		
+		
+/* THANKS */
+
+	Usability Guru: Dmitry Kadantsev
+	Twitter: @kadantsev
+	From: Germany, http://reply.eu/
+
+	EN Translator: Yana Shushunova
+	Twitter: @yana_the_shu
+	From: Volzhsky, Russia
+	
+	Design Hints: Arina Terentyeva
+	Twitter: @meizy
+	
+/* SITE */
+	Last update: 2012/06/15 16:38
+	Language: Russian
+	Doctype: HTML5
+	CMF: Excite

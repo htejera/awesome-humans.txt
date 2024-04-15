@@ -1,0 +1,26 @@
+﻿/* TEAM */
+Designer: Fco Moreno Sánchez-Aguililla
+Site: www.fcomoreno.net
+Email: fco@fcomoreno.net
+Twitter: @fcomoreno
+Location: Albacete, Castilla-La Mancha, Spain
+
+/* SITE */
+Last update: Friday, September 30, 2022 
+Standards: PHP, HTML, Javascript and CSS
+Software: WordPress + Elementor
+
+/* CREDITS */
+
+WordPress 6.0.2 - Web publishing software
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+675 Mass Ave, Cambridge, MA 02139, EEUU
+
+Copyright (C) 2011-2022 by the contributors
+GNU GENERAL PUBLIC LICENSE
+
+Elementor by Elementor Ltd
+GPLv3 license. 
+
+Akismet Anti-Spam
+Versión 5.0.1 | by Automattic 

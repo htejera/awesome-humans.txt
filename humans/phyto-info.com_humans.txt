@@ -1,0 +1,38 @@
+/* TEAM */
+
+	Researcher: Sylvie Thouësny
+	Contact: contact [at] phyto-info.com
+	Web: https://sylvie.thouesny.net/
+	LinkedIn: https://linkedin.com/in/sylviethouesny
+	From: France
+
+	Developer: Nicolas Fénix
+	Web: https://nicolas.nacq.me
+	From: France
+
+	Communication: Karine Fenix
+	LinkedIn: https://linkedin.com/in/karinefenix
+	From: Ireland
+
+	Translator: Fany Savina
+  	LinkedIn: https://www.linkedin.com/in/fany-savina-6b521156/
+	From: France (+Ireland)
+
+/* THANKS */
+
+	General & technical help: Raphaël Savina
+	Web: https://savina.net/
+	From: France
+
+
+/* SITE */
+
+	Last update: 2023/03/08
+	Standards: HTML5, CSS3,..
+	Software: Jekyll, PHP, Nginx,.. 
+
+
+/* ABOUT THIS FILE */
+
+	Name: humans.txt
+	web: https://humanstxt.org/

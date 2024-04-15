@@ -1,0 +1,55 @@
+
+
+ .d8888b.                           888                   d8b          
+d88P  Y88b                          888                   Y8P          
+888    888                          888                                
+888         .d88b.  888d888 8888b.  888  .d88b.   .d88b.  888 888  888 
+888        d88""88b 888P"      "88b 888 d88""88b d88P"88b 888 `Y8bd8P' 
+888    888 888  888 888    .d888888 888 888  888 888  888 888   X88K   
+Y88b  d88P Y88..88P 888    888  888 888 Y88..88P Y88b 888 888 .d8""8b. 
+ "Y8888P"   "Y88P"  888    "Y888888 888  "Y88P"   "Y88888 888 888  888 
+                                                      888              
+                                                 Y8b d88P              
+                                                  "Y88P"               
+
+Oh my log! You found our humans.txt file!
+
+If you are reading this, it means that you probably read too many logs in your life,
+and now you are searching for the meaning of life in other textual files.
+(TLDR; 42 !)
+
+No worries though, we are all geeks, and we are all passionate about textual
+representation of data.
+Here at Coralogix, we’re rebuilding the path to observability using a real-time
+streaming analytics pipeline that provides monitoring, visualization, and alerting
+capabilities without the burden of indexing.
+
+Want to get deeper insights about yourself? Ready to be streamed into the future?
+Join us:
+
+https://coralogix.com/careers
+
+
+______________________________________________________________________________________________
+
+ __        ___     _ _       _           _   
+ \ \      / / |__ (_) |_ ___| |__   __ _| |_ 
+  \ \ /\ / /| '_ \| | __/ _ \ '_ \ / _` | __|
+   \ V  V / | | | | | ||  __/ | | | (_| | |_ 
+    \_/\_/  |_| |_|_|\__\___|_| |_|\__,_|\__|
+                                             
+
+Coralogix would like to acknowledge the contributions of the following
+people who have made a responsible disclosure to us:
+
+  WILL YOU BE THE FIRST??
+ 
+
+At the moment we have no public bug bounty program, but if you stumbled on to a security
+issue, please contact us at security@coralogix.com
+
+______________________________________________________________________________________________
+
+Contacts:
+
+  security@coralogix.com      - Responsible disclosures
