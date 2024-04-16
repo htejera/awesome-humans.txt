@@ -101,12 +101,11 @@ Thank you for visiting and we look forward to your contributions!
 - https://thelovelygeek.com/humans.txt
 - https://tradingpost-live.ncplatform.net/humans.txt
 - https://triathlon.co.tt/humans.txt
-
-## Resources
-
 - https://tumblr.com/humans.txt
 - https://urban-propaganda.de/humans.txt
 - https://vam.ac.uk/humans.txt
 - https://wilmoreelectronics.com/humans.txt
 - https://wmf.org/humans.txt
 - https://zonedactivite.com/humans.txt
+
+## Resources
