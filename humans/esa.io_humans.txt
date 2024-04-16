@@ -1,0 +1,36 @@
+
+   ___ ___  __ _
+  / _ \ __|/ _` |
+ |  __\__ \ (_| |  "(\( ⁰⊖⁰)/)"
+  \___|___/\__,_|
+
+
+/* TEAM */
+    Engineer: Atsuo Fukaya
+    @fukayatsu
+    From: Tokyo, Japan
+    Love: gadgets
+    https://github.com/fukayatsu
+
+    Designer: Taeko Akatsuka
+    @ken_c_lo
+    From: Tokyo, Japan
+    Love: inuyo
+    https://github.com/taea
+
+    Engineer: Naoto Koshikawa
+    @ppworks
+    From: Tokyo, Japan
+    Love: my sweet son
+    https://github.com/ppworks
+
+/* THANKS */
+    Yurufuwa Development Club (http://yurufuwa.club/)
+    Ruby Communities
+    All users (including us)
+
+/* SITE */
+    Language: Japanese, English
+    Doctype: HTML5
+    Editor: Vim, Visual Studio Code
+    Tools: Ruby on Rails

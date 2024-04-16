@@ -1,0 +1,29 @@
+TinyPNG is the best way to compress PNG files for web publishing. It was
+created with lots of love by George the Panda and his friends at Tinify.
+If you like hacking on web apps, contact us through info@tinypng.com.
+
+
+                                                ____
+                                             ,ad@@@@b,
+                                   ____     d8@@@@@@@8b
+                ____         _,,af""""""YadYMM@@@@@@@@8)
+              ,d@@@@ba,  .df""               'Y8@@@@MMP
+             d@@@@@@@WPdP'                       Y8M8"
+            IW@@@@@@@MP                 ____      'Y,
+            (8@@@@@@P'       ___      ad@@@@ba,     'b
+             Y8MM@MP'     .ad@@@b.   I@@@PY0@@@b,     Y
+              '"YYM"     d@@@@@@@b   '@@I  _ Y@@@b     b
+                 Y'     I@@Y' 'Y@8    'Yb I@8.I@@8     'b
+                 I      d@I ,8b'I8b,-'""'Y8@@@@@@Y     .I
+                 I      8@I,I@@@P'   __     'Y@@I, '  . P
+                 (,     Y@@b8@Y   ,ad@@8b.    .8I,_,;.,d'
+                  Y      Y8@@P'   I@@@8Y'    ,d88YbafdY8b,
+                  'b       'YI       Y8b,,ad8P'''b,   '"Y8ba,_
+                   '8,'  . ' Y,.   ,a@@@@@Nda,,a888b,    YadP"''
+                     "Yaa,;.'_Y,dP"d8@@Y 'b,  'Y'  '"b,_  b
+                       "88NP"'  ,d8MMY8a, dban, b      "b, Y
+                        ,P   ,aP"'    '"baY    "Ya.      "Ya,
+                      d"   ,a"            "
+                     I8b.,d"
+                     'Yad"
+

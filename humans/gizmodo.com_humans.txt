@@ -1,0 +1,186 @@
+/* TEAM */
+
+[us]
+Alexander Foo
+Brian Ferch
+Christopher De Gaeta
+Ihab Rimawi
+Ina Agee
+Jeff Bauer
+Michael Dugan
+Ramesh Kumar
+Zoltán Balázs [zoli]
+
+
+/* WITH THE HELP OF */
+
+Alejandro Fortini
+Anton Chekantsev
+Anton Malyukov
+Giancarlo Bassanini
+Iván Campaña
+Klim Grigorash
+Łukasz Szkutnik
+Lyle Arnot
+Mary Evseenko
+Nikodem Kler
+Noelia Luna
+Oleg Dyachenko
+Pawel Cygal
+Samuel Centurion
+Valeriy Yakhin
+
+/* THANKS */
+
+Ábel Erdész
+Ádám Homolya
+Ákos Kún
+Alex Mason
+Alexandre Thomas [thomalexandre] https://athomas.me
+Ali Philippides
+Allison Wentz [allisonallisonw]
+András Szatmári [strati]
+Anton Nehaev
+Antonio Suárez
+Ariel Viera
+Árpád Bencze [arpibb]
+Ashton Galloway-Taylor
+Attila Kocsis
+Balázs Kéki
+Balázs Pőcze [banyek]
+Benjamin Kim
+Ben Regenspan
+Brandon Comerford [bcomerford]
+Brice Shatzer [BriceShatzer]
+Bryce Dorn
+Caiti Vincel
+Cameron Lowe
+Casey Speer
+Chloe Powell
+Chris Boylan
+Chris Sprehe [spra85]
+Claire Neveu
+Csaba Schreiner [edward]
+Daniel Fernandez Aguirre
+Dániel Péger
+Danny Cheng
+Dávid Judik
+David Tobin
+Diego Pineda
+Dmitry Lambrianov [dima]
+Dustin Anderson
+Dustin Curtis
+Eduardo Urbina
+Endre Újhelyi
+Eric Mittelhammer
+Erin McGill
+Erin Pettigrew
+Ernie Deeb
+Etele Illés
+Félix Nagy
+Ferenc Nehéz-Posony [pozsi]
+Ferenc Tóth
+Gábor Luk
+Gáspár Körtesi [gazs]
+Gergely Szabó
+George Xanthopoulos
+Gergő Nagy [ngergo]
+Gergő Vámosi
+Giannella Paredes
+Grace Robertson
+Greg Takayama
+Guillermo Rebolledo
+György Bokros [hipra]
+Ian Fette
+Indra Tjhai
+István Bodnár [serif]
+Jamie Levinson
+János Hardi
+János Hegymegi [pv]
+Jenni Bruno
+Jeremy Chase
+Jesse Knight
+Jessica Smith
+Jim Bartus
+Joe Duran
+Jonathan Peraza Feliciano
+Jorge García
+Jory Steifel
+Josh Holbrook [jfhbrook]
+Josh Laurito
+József Kozma [joco]
+Júlia Erő
+Julia Skrak
+Justin Potter
+Justin Tanacredi [Jdtanacredi]
+Kanwar Kultar Gill [kul]
+Kelly Bishop
+Kelly Monson
+Kevin Graham
+Krisztián Pintér
+Kyle Lucovsky
+László Heves [reyrodrigez]
+Lauren Bertolini
+Laurie Duggins
+Levente Molnár
+Long Cao
+Luisa Jones
+Margaret Taormina
+Mark Kortekaas
+Márton Borlay
+Matt Hamer
+Michael Butkovic [MichaelButkovic]
+Michael Scott Hertzberg [moimikey]
+Michelle Chiang
+Mike Parent [mparent61]
+Mike Patek [mpatek]
+Mikhail Mitrofanov [migmit]
+Mikołaj Ziemowit Szabó
+Nándor Sivók [dominis]
+Nick Eckhart
+Olivér Kovács [zmetser]
+Patrick André
+Pavel Shapkin
+Pavel Popov
+Pedro Rodriguez
+Peri Hochwald
+Péter Hausel
+Péter László
+Péter Szász [eszpee]
+René Michel
+Robin Ting [civ2boss]
+Sam Scherer
+Sasha Baengueva
+Sean Jewell
+Sergey Grishanin
+Sergey Remizov
+Stacey Paradiso
+Stephen Kao
+Steve Climaco
+Stuart Cheshire
+Szilárd Szabó
+Tamás Neltz
+Tara Bos
+Tibor Botos
+Tom Plunkett
+Tyler Alicea [tra37]
+Vadim Shalts
+Vasiliy Bondarenko
+Victor Amos [victoramosjr]
+Viktor Honti
+Viktor Tanyi
+Zoltán Elek
+Zoltán Kalmár [kalmi]
+
+/* Security Reporting Hall of Fame */
+
+Gerardo Venegas
+Muhammad Zeeshan
+Shawar Khan/Faizan Shabbir
+Brett Buerhaus
+Ashish Pathak
+Saheen/Zeeshan/Aaskash/Uzer - CyberTeamRox
+Mohd Haji
+Varun Chowdary
+Robin Puri
+Rui Silva

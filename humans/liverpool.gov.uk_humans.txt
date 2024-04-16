@@ -1,0 +1,57 @@
+﻿/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* agency */
+  
+	Developed by:		LCC Digtal Services
+	Location: 		Liverpool
+	Date:			July 2023
+  
+/* team */
+  
+	Project Team
+
+	Acting Head of Service 
+	and Technical Lead: 	Mike Ranscombe - @mikeranscombe
+
+	Lead Developers:	Dominic Reid - @dom209
+				Kevin Cann
+	
+	UX and Design:		Mark Allen 
+				Jayne Edwards 
+
+	Additional Development:	Eugene Cook - @eugene_cook
+				Ann-Marie Flynn
+				Paul White - @paul_lfc
+				Callum Rooney 
+
+	Project Lead: 		James Jennings
+
+	Content: 		Andrea Jones
+				Sophie Baines
+				Lois Bebbington
+				Martin Atherton
+	
+	Data Analyst:		Katy North
+
+	Digital Services
+
+	Development Team:	Neil Walker
+				Jay Lynch
+
+	Projects Team:		Jonathan Glynn
+				Fiona Murray
+	
+/* site */
+
+	Standards: 		HTML5, CSS3
+	Components: 		Bootstrap, jQuery, Blazor, .NET 6
+	CMS: 			Umbraco 
+  	Dev: 			Microsoft Visual Studio
+
+/* thanks */
+
+This site is a product of teamwork and collaboration.  Thanks to all team members who worked so hard on the project, and thanks to those who kept the service running while we ran around in circles.
+
+
+/* So long and thanks for all the fish */

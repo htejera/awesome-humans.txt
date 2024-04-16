@@ -1,0 +1,13 @@
+/* DEVELOPER */
+	Name: Neel Somani
+	Site: www.facebook.com/neel.somani
+	Twitter: @neelsalami
+	Location: San Francisco, USA
+
+/* SITE */
+	Last update: Monthly
+	Language: English
+	Doctype: HTML5
+	Standards: HTML5, CSS3, PHP5
+	Components: Amazon Web Services, Bootstrap
+	Technologies: MAMP, Sequel Pro, Photoshop, Sublime, vim, git

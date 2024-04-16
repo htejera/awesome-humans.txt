@@ -1,0 +1,86 @@
+/*
+ _____ _     _        _____               _
+|   | |_|___|_|___   |   __|___ _ _ ___ _| |
+| | | | |   | | .'|  |__   | . | | | .'| . |
+|_|___|_|_|_| |__,|  |_____|_  |___|__,|___|
+          |___|              |_|
+
+    Handmade software sauce since 2012
+*/
+
+/* TEAM */
+
+Developer, Architect, Public Relations, Motivation Director : Agnès Crépet.
+Twitter: @agnes_crepet.
+Location: Saint-Etienne, France.
+
+Developer, Hype-Driving Director, Fitness Manager : Cédric Exbrayat
+Twitter: @cedric_exbrayat
+Location: Lyon, France
+
+Developer, Lulz Director, Night Watch Supervisor : Cyril Lacôte
+Twitter: @clacote
+Location: Lyon, France
+
+Developer, Test Coverage Director, Software Quality Supervisor : Jean-Baptiste Nizet
+Twitter: @jbnizet
+Location: Saint-Just-Saint-Rambert, France
+
+/* SITE */
+
+Components: Play 1.2.X (FTW), Twitter Bootstrap, jQuery.
+Software: Git, GitHub (we love you).
+ASCII art: http://ascii.mastervb.net/
+Chuck avatar : Fabien Cornut, http://642.fr/
+
+/* Meet Chuck :
+
+
+                                                        MM$
+                                                       $MMMMM
+                                                       MMMMM      MMM
+                                                       MMMMM   MMMMMM
+                              MMMMMMMMMMMMMMMMMMMM.   MMMMM  MMMMMMMMM
+                        7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+                     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+                  .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM8
+               MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+             =MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN
+            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+           OMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+          $MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+          MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+         MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+         MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMM8                                $MMMMMMMMMMMMMMM=
+       MMMMMMMMMMMMM?                                      ,MMMMMMMMMMMMM
+
+   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMM                       MMMMMMMMMMMM                       MMMMM
+       MMMM MMMM                  MMMM= .,MMMM                  MMMM MMMM
+        MMM MMMM         M   M    MMMM    MMMM    M   M.        MMMM MMM
+        MMM MMMM        ZMMMMMM   MMMM    MMMM   MMMMMMM        MMMM MMM
+        MMM MMMM        .MMMMMM   MMMM    MMMM   MMMMMMO        MMMM MMM
+        MMM MMMM         =MMMM    MMMM    MMMM    MMMMN         MMMM MMM
+        MMM MMMMM                 MMMM    MMMM                 MMMMM MMM
+        MMM MMMMMM                MMMM    MMMM                MMMMMM MMM
+        MMMM MMMMMMM              MMM.     MMM.             MMMMMMM .MMM
+        NMMMM$                 :MMMMM MMMM MMMMM~                 7MMMMM
+         ,MMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMM=
+         :  MMMMMMMMMMMMMMMMMMMMMI  MMMMMMMM  +MMMMMMMMMMMMMMMMMMMMM. .
+          MMM=                 ,MMMMMMMMMMMMMMMM,                 ~MMM
+           MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+             MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+              MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+               ~MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMD
+                 ?MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                   =MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM8
+                      =MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                         .:MMMMMMMMMMMMMMMMMMMMMMMMMM?
+                                 IMMMMMMMMMMMM7
+*/

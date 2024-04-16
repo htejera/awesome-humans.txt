@@ -1,0 +1,26 @@
+# humanstxt.org/
+/* TEAM */
+# (Yes, all this content from 2 people!)
+
+Sire Owner / Coder / Web-Geek /Editor: Jerry Pank (aka Chef)
+Contact: JerryPank@Gmail.com
+Facebook: https://www.facebook.com/jerry.pank
+Facebook: https://www.facebook.com/Cookipedia Chef
+G+: https://plus.google.com/118146662624914139731/posts
+Twitter: https://twitter.com/MyCookipedia
+From: Upwell, Norfolk, UK
+
+/* THANKS */
+Platform: Mediawiki
+Authoritive content: http://en.wikipedia.org/
+CC Images: http://commons.wikimedia.org/
+Apple Favicon generator:http://iconifier.net/ 
+Css minifyer: http://sundgaard.dk/css-minify.aspx 
+Opensource Icons: http://openclipart.org/Code Inspiration: Perl
+Fun work tools: Apple
+
+/* SITE */        
+Last update: weekly       
+Language: English       
+Doctype: Many and varied :-(        
+IDE: Vim, MediWiki, Perl, Php, Apache, Photoshop, Git, Chrome

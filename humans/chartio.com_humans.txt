@@ -1,0 +1,14 @@
+this file last updated: 2017/09/07
+
+/* TEAM */
+Designer/developer: Steven Lewis
+VP of Engineering: Brian Hartsock
+Operations: Vanessa Kim
+CEO: Dave Fowler
+
+/* BUILT WITH */
+Jekyll: https://jekyllrb.com/
+Bootstrap: http://getbootstrap.com/
+Masonry: https://masonry.desandro.com/
+Open Sans: https://fonts.google.com/specimen/Open+Sans
+Roboto Slab: https://fonts.google.com/specimen/Roboto+Slab

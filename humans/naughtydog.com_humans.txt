@@ -1,0 +1,43 @@
+Everyone at Naughty Dog and Sony which is a large team of wonderful people who help us make great games. 
+
+/* TEAM */
+	Content: Arne Meyer
+	Contact: arne_meyer [at] naughtydog.com
+	Twitter: @arnemeyer
+
+	Content: Scott Lowe
+	Contact: scott_lowe [at] naughtydog.org
+	Twitter: @ScottLowe
+
+	Web designer: Angel Garcia
+	Twitter: @ArtsbyAngel
+	Contact: angel_garcia [at] naughtydog.com
+ 
+	Web developer: Dinah Bakeer
+	Twitter: @mondeparfait
+	Contact: dinah_bakeer [at] naughtydog.com
+
+/* DEPRECATED */
+
+	Content: Eric Monacelli
+	Twitter: @ermonacelli
+  
+	Web designer: Lily Nishita
+	Twitter: @lazerlily
+
+	Web developer: Jason Paul
+	Twitter: @jmpaul
+	Contact: jason_paul [at] naughtydog.com
+ 
+/* THANKS */
+	Producer: Sam Thompson
+	Twitter: @PortableKingpin
+ 
+/* SITE */
+	Last update:2016/06/01
+	Language:English
+	Standards: HTML5, CSS3
+	Components: Craft CMS, Yii, PHP, Javascript
+	
+/* WORK */
+	Jobs: http://www.naughtydog.com/careers/

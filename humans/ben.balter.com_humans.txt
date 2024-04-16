@@ -1,0 +1,307 @@
+/* SITE */
+Last Updated: 2024/01/08
+Standards: HTML5, CSS3
+Components: 
+
+/* TEAM */
+
+Name: benbalter
+Site: https://github.com/benbalter
+
+Name: dependabot[bot]
+Site: https://github.com/apps/dependabot
+
+Name: github-actions[bot]
+Site: https://github.com/apps/github-actions
+
+Name: balterbot
+Site: https://github.com/balterbot
+
+Name: konklone
+Site: https://github.com/konklone
+
+Name: IanLee1521
+Site: https://github.com/IanLee1521
+
+Name: parkr
+Site: https://github.com/parkr
+
+Name: gregjd
+Site: https://github.com/gregjd
+
+Name: waldoj
+Site: https://github.com/waldoj
+
+Name: Lewiscowles1986
+Site: https://github.com/Lewiscowles1986
+
+Name: aaronjorbin
+Site: https://github.com/aaronjorbin
+
+Name: mlinksva
+Site: https://github.com/mlinksva
+
+Name: jasonrudolph
+Site: https://github.com/jasonrudolph
+
+Name: gsf
+Site: https://github.com/gsf
+
+Name: adelevie
+Site: https://github.com/adelevie
+
+Name: ctbarna
+Site: https://github.com/ctbarna
+
+Name: david-a-wheeler
+Site: https://github.com/david-a-wheeler
+
+Name: DirtyF
+Site: https://github.com/DirtyF
+
+Name: jseppi
+Site: https://github.com/jseppi
+
+Name: nschonni
+Site: https://github.com/nschonni
+
+Name: gbinal
+Site: https://github.com/gbinal
+
+Name: francisfuzz
+Site: https://github.com/francisfuzz
+
+Name: stevector
+Site: https://github.com/stevector
+
+Name: JulieBalter
+Site: https://github.com/JulieBalter
+
+Name: PSGS
+Site: https://github.com/PSGS
+
+Name: keegoid
+Site: https://github.com/keegoid
+
+Name: h3xar0n
+Site: https://github.com/h3xar0n
+
+Name: mitio
+Site: https://github.com/mitio
+
+Name: philipashlock
+Site: https://github.com/philipashlock
+
+Name: gallexi
+Site: https://github.com/gallexi
+
+Name: shayfrendt
+Site: https://github.com/shayfrendt
+
+Name: hillsy
+Site: https://github.com/hillsy
+
+Name: CdrMarks
+Site: https://github.com/CdrMarks
+
+Name: eduardozulian
+Site: https://github.com/eduardozulian
+
+Name: RyanCorrigal
+Site: https://github.com/RyanCorrigal
+
+Name: Philmageddon
+Site: https://github.com/Philmageddon
+
+Name: philoushka
+Site: https://github.com/philoushka
+
+Name: paulfitz
+Site: https://github.com/paulfitz
+
+Name: pborreli
+Site: https://github.com/pborreli
+
+Name: nikolas
+Site: https://github.com/nikolas
+
+Name: n1c
+Site: https://github.com/n1c
+
+Name: nathos
+Site: https://github.com/nathos
+
+Name: Phlow
+Site: https://github.com/Phlow
+
+Name: mikemorris
+Site: https://github.com/mikemorris
+
+Name: MikeMcQuaid
+Site: https://github.com/MikeMcQuaid
+
+Name: mgriffin
+Site: https://github.com/mgriffin
+
+Name: mfhaynes
+Site: https://github.com/mfhaynes
+
+Name: vdavez
+Site: https://github.com/vdavez
+
+Name: fpigerre
+Site: https://github.com/fpigerre
+
+Name: pmaiorana
+Site: https://github.com/pmaiorana
+
+Name: mattvivier
+Site: https://github.com/mattvivier
+
+Name: jahla
+Site: https://github.com/jahla
+
+Name: bezthomas
+Site: https://github.com/bezthomas
+
+Name: amalv
+Site: https://github.com/amalv
+
+Name: ZachMoreno
+Site: https://github.com/ZachMoreno
+
+Name: wpears
+Site: https://github.com/wpears
+
+Name: wilsonmar
+Site: https://github.com/wilsonmar
+
+Name: victorianwobodo
+Site: https://github.com/victorianwobodo
+
+Name: tomcentrate
+Site: https://github.com/tomcentrate
+
+Name: mojombo
+Site: https://github.com/mojombo
+
+Name: tmcw
+Site: https://github.com/tmcw
+
+Name: tmaier
+Site: https://github.com/tmaier
+
+Name: wooorm
+Site: https://github.com/wooorm
+
+Name: tmaybe
+Site: https://github.com/tmaybe
+
+Name: stevemoser
+Site: https://github.com/stevemoser
+
+Name: dideler
+Site: https://github.com/dideler
+
+Name: dmleong
+Site: https://github.com/dmleong
+
+Name: DanielSchuman
+Site: https://github.com/DanielSchuman
+
+Name: danayel
+Site: https://github.com/danayel
+
+Name: colemanm
+Site: https://github.com/colemanm
+
+Name: ctubbsii
+Site: https://github.com/ctubbsii
+
+Name: caseydriscoll
+Site: https://github.com/caseydriscoll
+
+Name: bryanbraun
+Site: https://github.com/bryanbraun
+
+Name: bgaid
+Site: https://github.com/bgaid
+
+Name: openbrian
+Site: https://github.com/openbrian
+
+Name: billygriffin
+Site: https://github.com/billygriffin
+
+Name: benchun
+Site: https://github.com/benchun
+
+Name: smashwilson
+Site: https://github.com/smashwilson
+
+Name: nacin
+Site: https://github.com/nacin
+
+Name: albronca
+Site: https://github.com/albronca
+
+Name: alulsh
+Site: https://github.com/alulsh
+
+Name: ajschumacher
+Site: https://github.com/ajschumacher
+
+Name: michaelbeil
+Site: https://github.com/michaelbeil
+
+Name: Merovex
+Site: https://github.com/Merovex
+
+Name: philoserf
+Site: https://github.com/philoserf
+
+Name: lukasoppermann
+Site: https://github.com/lukasoppermann
+
+Name: lee-dohm
+Site: https://github.com/lee-dohm
+
+Name: kijanawoodard
+Site: https://github.com/kijanawoodard
+
+Name: jldec
+Site: https://github.com/jldec
+
+Name: johnbillion
+Site: https://github.com/johnbillion
+
+Name: meilinger
+Site: https://github.com/meilinger
+
+Name: oeon
+Site: https://github.com/oeon
+
+Name: BioGeek
+Site: https://github.com/BioGeek
+
+Name: jeffpaul
+Site: https://github.com/jeffpaul
+
+Name: j-f1
+Site: https://github.com/j-f1
+
+Name: tyrannosaurusjames
+Site: https://github.com/tyrannosaurusjames
+
+Name: ghelleks
+Site: https://github.com/ghelleks
+
+Name: GaryGSC
+Site: https://github.com/GaryGSC
+
+Name: gabbyhorca
+Site: https://github.com/gabbyhorca
+
+Name: esonderegger
+Site: https://github.com/esonderegger
+

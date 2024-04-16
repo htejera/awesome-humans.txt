@@ -1,0 +1,10 @@
+/* SITE */
+    Site name: Robots.txt
+    Site URL: http://robots-txt.com
+    Contact: contact [at] robots-txt.com
+    Built with: Get Simple CMS
+    
+    Editor: Maxime Guernion
+    URL: http://maximeguernion.com
+    Twitter : @maximeguernion
+    Location: France
