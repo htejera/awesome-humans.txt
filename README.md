@@ -139,7 +139,7 @@ Thank you for visiting and we look forward to your contributions!
 - [Made by Humans Chrome Plugin.](https://chromewebstore.google.com/detail/made-by-humans/ecehdinachhenilmjdkmafjkogjlgcbj)
 - [Humans.txt with template logic. Hugo.](https://discourse.gohugo.io/t/htaccess-humans-txt-with-template-logic/27624)
 - [Companies with humans.txt](https://www.reddit.com/r/webdev/comments/2u4p41/companies_with_humanstxt/)
-- [Humans TXT search.](https://sebiboga.github.io/humans-txt/)
+- [Humans TXT discover.](https://sebiboga.github.io/humans-txt/)
 - [Handle humans.txt on Django.](https://github.com/vint21h/django-humans-txt)
 - [Create robots.txt and humans.txt in Elm.](https://github.com/MarcoDaniels/elm-robots-humans)
 - [Simple humans.txt routes and views in Laravel.](https://github.com/olssonm/l5-humans)
