@@ -134,6 +134,7 @@ Thank you for visiting and we look forward to your contributions!
 - [Humans.txt WordPress Plugin.](https://wpcore.com/plugin/humanstxt)
 - [Humans.txt Drupal.](https://www.drupal.org/project/humanstxt)
 - [Nuxt Humans Tx.](https://nuxt.com/modules/humans-txt)
+- [HumansTxt Plugin for Publii](https://github.com/htejera/publii-humans-txt-plugin/tree/main)
 - [On the humans.txt File.](https://thenewleafjournal.com/on-the-humans-txt-file/)
 - [Humans.txt Chrome Plugin.](https://chromewebstore.google.com/detail/humanstxt/pocdghmbbodjiclginddlaimdaholhfk)
 - [Robots vs Humans Chrome Plugin.](https://chromewebstore.google.com/detail/robots-vs-humans/fjnhgpnnokcbcfbopenblmpncpaljfbk)
