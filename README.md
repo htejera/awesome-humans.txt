@@ -94,7 +94,7 @@ Thank you for visiting and we look forward to your contributions!
 - https://padsys.org/humans.txt
 - https://paul.af/humans.txt
 - https://php.net/humans.txt
-- https://player.fm
+- https://player.fm/humans.txt
 - https://pnarp.com/humans.txt
 - https://policymakr.com/humans.txt
 - https://prepurchasing.ucdavis.edu/humans.txt
