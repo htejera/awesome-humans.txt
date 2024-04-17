@@ -137,6 +137,7 @@ Thank you for visiting and we look forward to your contributions!
 - [Humans.txt Chrome Plugin.](https://chromewebstore.google.com/detail/humanstxt/pocdghmbbodjiclginddlaimdaholhfk)
 - [Robots vs Humans Chrome Plugin.](https://chromewebstore.google.com/detail/robots-vs-humans/fjnhgpnnokcbcfbopenblmpncpaljfbk)
 - [Made by Humans Chrome Plugin.](https://chromewebstore.google.com/detail/made-by-humans/ecehdinachhenilmjdkmafjkogjlgcbj)
+- [Web Humans! Firefox Plugin](http://zesago.net/projects/humans.html)
 - [Humans.txt with template logic. Hugo.](https://discourse.gohugo.io/t/htaccess-humans-txt-with-template-logic/27624)
 - [Companies with humans.txt](https://www.reddit.com/r/webdev/comments/2u4p41/companies_with_humanstxt/)
 - [Humans TXT discover.](https://sebiboga.github.io/humans-txt/)
