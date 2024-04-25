@@ -67,7 +67,7 @@ Thank you for visiting and we look forward to your contributions!
 - https://fncb.com/humans.txt
 - https://foursquare.com/humans.txt
 - https://free.fr/humans.txt
-- https://front.com/humans.txt?
+- https://front.com/humans.txt
 - https://gizmodo.com/humans.txt
 - https://google.com/humans.txt
 - https://gov.uk/humans.txt
@@ -94,6 +94,7 @@ Thank you for visiting and we look forward to your contributions!
 - https://padsys.org/humans.txt
 - https://paul.af/humans.txt
 - https://php.net/humans.txt
+- https://player.fm
 - https://pnarp.com/humans.txt
 - https://policymakr.com/humans.txt
 - https://prepurchasing.ucdavis.edu/humans.txt
@@ -114,6 +115,7 @@ Thank you for visiting and we look forward to your contributions!
 - https://stripe.com/humans.txt
 - https://supabase.com/humans.txt
 - https://symulatorpociagu.pl/humans.txt
+- https://techradar.com/humans.txt
 - https://tecnolocuras.com/humans.txt
 - https://theguardian.com/humans.txt
 - https://thelovelygeek.com/humans.txt
@@ -126,6 +128,7 @@ Thank you for visiting and we look forward to your contributions!
 - https://urban-propaganda.de/humans.txt
 - https://vam.ac.uk/humans.txt
 - https://wilmoreelectronics.com/humans.txt
+- https://wired.com/humans.txt
 - https://wmf.org/humans.txt
 - https://zonedactivite.com/humans.txt
    
@@ -133,6 +136,7 @@ Thank you for visiting and we look forward to your contributions!
 - [Humans.txt WordPress Plugin.](https://wpcore.com/plugin/humanstxt)
 - [Humans.txt Drupal.](https://www.drupal.org/project/humanstxt)
 - [Nuxt Humans Tx.](https://nuxt.com/modules/humans-txt)
+- [HumansTxt Plugin for Publii](https://github.com/htejera/publii-humans-txt-plugin/tree/main)
 - [On the humans.txt File.](https://thenewleafjournal.com/on-the-humans-txt-file/)
 - [Humans.txt Chrome Plugin.](https://chromewebstore.google.com/detail/humanstxt/pocdghmbbodjiclginddlaimdaholhfk)
 - [Robots vs Humans Chrome Plugin.](https://chromewebstore.google.com/detail/robots-vs-humans/fjnhgpnnokcbcfbopenblmpncpaljfbk)
