@@ -133,17 +133,22 @@ Thank you for visiting and we look forward to your contributions!
 - https://zonedactivite.com/humans.txt
    
 ## Resources
+
+### Articles
+- [On the humans.txt File.](https://thenewleafjournal.com/on-the-humans-txt-file/)
+- [Companies with humans.txt](https://www.reddit.com/r/webdev/comments/2u4p41/companies_with_humanstxt/)
+- [La prueba de humanidad en la Web: humans.txt](https://tecnolocuras.com/humanstxt/)
+
+### Plugins & Code
 - [Humans.txt WordPress Plugin.](https://wpcore.com/plugin/humanstxt)
 - [Humans.txt Drupal.](https://www.drupal.org/project/humanstxt)
 - [Nuxt Humans Tx.](https://nuxt.com/modules/humans-txt)
 - [HumansTxt Plugin for Publii](https://github.com/htejera/publii-humans-txt-plugin/tree/main)
-- [On the humans.txt File.](https://thenewleafjournal.com/on-the-humans-txt-file/)
 - [Humans.txt Chrome Plugin.](https://chromewebstore.google.com/detail/humanstxt/pocdghmbbodjiclginddlaimdaholhfk)
 - [Robots vs Humans Chrome Plugin.](https://chromewebstore.google.com/detail/robots-vs-humans/fjnhgpnnokcbcfbopenblmpncpaljfbk)
 - [Made by Humans Chrome Plugin.](https://chromewebstore.google.com/detail/made-by-humans/ecehdinachhenilmjdkmafjkogjlgcbj)
 - [Web Humans! Firefox Plugin](http://zesago.net/projects/humans.html)
 - [Humans.txt with template logic. Hugo.](https://discourse.gohugo.io/t/htaccess-humans-txt-with-template-logic/27624)
-- [Companies with humans.txt](https://www.reddit.com/r/webdev/comments/2u4p41/companies_with_humanstxt/)
 - [Humans TXT discover.](https://sebiboga.github.io/humans-txt/)
 - [Handle humans.txt on Django.](https://github.com/vint21h/django-humans-txt)
 - [Create robots.txt and humans.txt in Elm.](https://github.com/MarcoDaniels/elm-robots-humans)
