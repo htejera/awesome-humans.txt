@@ -137,7 +137,7 @@ Thank you for visiting and we look forward to your contributions!
 ### Articles
 - [On the humans.txt File.](https://thenewleafjournal.com/on-the-humans-txt-file/)
 - [Companies with humans.txt](https://www.reddit.com/r/webdev/comments/2u4p41/companies_with_humanstxt/)
-- [La prueba de humanidad en la Web: humans.txt](https://tecnolocuras.com//misc/la-prueba-de-humanidad-en-la-web-humanstxt/)
+- [La prueba de humanidad en la Web: humans.txt](https://tecnolocuras.com/misc/la-prueba-de-humanidad-en-la-web-humanstxt/)
 
 ### Plugins & Code
 - [Humans.txt WordPress Plugin.](https://wpcore.com/plugin/humanstxt)
